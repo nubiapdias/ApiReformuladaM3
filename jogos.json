@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Doki Doki",
+    "descricao": "Otome",
+    "foto": "public/imgs/R.png",
+    "preco": 10.0
+  },
+  {
+    "id": 2,
+    "nome": "Minecraft",
+    "descricao": "simulação",
+    "foto": "public/imgs/Minecraft.jpg",
+    "preco": 10.0
+  },
+  {
+    "id": 3,
+    "nome": "Fortnite",
+    "descricao": "aventura",
+    "foto": "public/imgs/f.jpg",
+    "preco": 20.0
+  },
+  {
+    "id": 6,
+    "nome": "Dreamscaper",
+    "descricao": "aventura",
+    "foto": "public/imgs/d.jpg",
+    "preco": 11.0
+  }
+]
